@@ -1,0 +1,160 @@
+[
+{
+    "category": "Breakfast",
+    "dishes":[
+
+        {
+            "foodName": "pancackes with blueberries syrup",
+            "Description": "pancackes are best served in the morning, and the blueberries are ideal for weight loss",
+            "imageUrl": "https://media.istockphoto.com/id/1449842231/photo/pancakes-with-berries-drizzle-with-maple-syrup-blueberries-and-raspberries.jpg?s=612x612&w=0&k=20&c=Rp40XgznZ2i_oGXMFFlylWAu-YnEPxpq6gdNEqSIte4= "
+        },
+
+        {
+            "foodName": "Scrambled Eggs",
+            "Description": " a classical breakfast consisting of eggs, ham and cheese on toast",
+            "imageUrl": " https://plus.unsplash.com/premium_photo-1676106624389-e0995e9aff46?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHxvWFY4SjdPdk55MHx8ZW58MHx8fHx8 "
+        },
+
+
+        {
+            "foodName": "Bread and fruit",
+            "Description": "Bread toast topped with fruit and cream",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1695932845500-0074536069c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8b1hWOEo3T3ZOeTB8fGVufDB8fHx8fA%3D%3D "
+        },
+
+       {
+            "foodName": "Croissants",
+            "Description": " This packages comes with freshly prepared orange juice",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1676929360029-65fadc001ff7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YnJlYWtmYXN0fGVufDB8fDB8fHww "
+        },
+
+
+        {
+            "foodName": "Epiphany cake",
+            "Description": "Nicely made doughnut with cream fruit toppings",
+            "imageUrl": "https://media.istockphoto.com/id/1455241944/photo/epiphany-cake.webp?b=1&s=170667a&w=0&k=20&c=BIrYbKQN5ZPI5L2TRc-xPwNNL9QVpXQRxnCxUmhWELc= "
+        },
+
+
+        {
+            "foodName": "Pastries",
+            "Description": "Pastries and almond tea",
+            "imageUrl": "https://images.unsplash.com/photo-1574810134700-b6ba48d151a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFsbW9uZCUyMHRlYXxlbnwwfHwwfHx8MA%3D%3D "
+        },
+
+
+        {
+            "foodName": "Almond Milk",
+            "Description": "Try this one out with our cinnamon rolls",
+            "imageUrl": " https://images.unsplash.com/photo-1583507623011-5cc6ff99e11c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFsbW9uZCUyMHRlYXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+
+
+        {
+            "foodName": "Sandwich",
+            "Description": "this dish consists of sandwich with boiled egg",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1695932845500-0074536069c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8b1hWOEo3T3ZOeTB8fGVufDB8fHx8fA%3D%3D "
+        },
+
+
+        {
+            "foodName": "pizza",
+            "Description": "pizza and lettuce toppinggs",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1663855531781-a5f55dabddc8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3xvWFY4SjdPdk55MHx8ZW58MHx8fHx8 "
+        }
+
+          
+    ]
+},
+
+
+{
+    "category": "Lunch",
+    "dishes": [
+      {
+        "foodName": "Beef Salad",
+        "description": "A healthy and delicious salad with grilled meat, veggies, and dressing.",
+        "imageUrl": "https://images.unsplash.com/photo-1598515211932-b130a728a769?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fEJpcnlhbml8ZW58MHx8MHx8fDA%3D "
+      },
+      {
+        "foodName": "Spaghetti",
+        "description": "Spaghetti bolongnese with fresh mozzarella, tomatoes, and basil.",
+        "imageUrl": "https://images.unsplash.com/photo-1626844131082-256783844137?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNwYWdoZXR0aXxlbnwwfHwwfHx8MA%3D%3D "
+      },
+      {
+        "foodName": "Barbequed Ribs",
+        "description": "Barbequed ribs with mushroom gravy.",
+        "imageUrl": "https://images.pexels.com/photos/8753787/pexels-photo-8753787.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+
+      {
+        "foodName": "Pizza ",
+        "description": "Bacon pizza with onion and basil",
+        "imageUrl": "https://images.pexels.com/photos/19808761/pexels-photo-19808761/free-photo-of-pizza-with-bacon-onion-and-basil-on-a-floured-table.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+
+      {
+        "foodName": "Fried meat",
+        "description": "Delicious fried potatoes with meat and ketchup dip.",
+        "imageUrl": "https://images.pexels.com/photos/1352270/pexels-photo-1352270.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+
+      {
+        "foodName": "Vegetarian Wrap",
+        "description": "A flavorful wrap with assorted veggies and hummus.",
+        "imageUrl": "https://picsum.photos/800/600?image=106"
+      },
+
+      {
+        "foodName": "fish fillet",
+        "description": "Delicious fish fillet with curry.",
+        "imageUrl": "https://images.pexels.com/photos/6608694/pexels-photo-6608694.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+
+      {
+        "foodName": "Mixed veggies rice",
+        "description": "A flavourful mixed vegatable rice with kebab and salad.",
+        "imageUrl": "https://images.pexels.com/photos/12842254/pexels-photo-12842254.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+
+      {
+        "foodName": "Fried rice",
+        "description": "Fried rice with zucchini,soft boiled-egg and parsley.",
+        "imageUrl": "https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+
+      {
+        "foodName": "Chicken Biryani",
+        "description": "Fried chicken Biryani with lemon and peppers.",
+        "imageUrl": "https://images.pexels.com/photos/7353380/pexels-photo-7353380.jpeg?auto=compress&cs=tinysrgb&w=600 "
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+  }
+
+
+
+
+
+
+]

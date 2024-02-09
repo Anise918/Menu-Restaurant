@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&family=Protest+Riot&family=Space+Grotesk:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+   
+font-family: 'Space Grotesk', sans-serif, Protest-Riot;
+font-weight:500;
+  }
+
+
+  
+.img-container {
+  transition: transform 0.3s ease;
+}
+
+
+.img-container:hover {
+  transform: scale(1.1);
+}
+
+
+.image {
+  transition: transform 3s ease; /* Adjust duration as needed */
+}
+
+
+.slide-in {
+  transform: translateX(0%);
+
+}
+.slide-out {
+  transform: translateX(-100%);
+}
+
+
+/* Define animation for moving the images */
+@keyframes moveRight {
+  0% { transform: translateX(-100%); }
+  50% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+
+.imageContainer img {
+  animation: moveRight 10s linear infinite; 
+}
