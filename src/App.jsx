@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import { BrowserRouter, Route, Routes, } from 'react-router-dom';
-import './Index.css';
+import './index.css';
 import Menu from './Components/Menu';
 import Welcome from './Components/Welcome';
 import About from './Components/About';

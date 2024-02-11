@@ -105,7 +105,7 @@ const Welcome = () => {
 
   <div class='absolute top-0 left-0 w-full  '>
     <header style={{ backgroundColor: headerColor }} className='border border-black 
-    flex flex-row justify-around fixed w-full'>
+    flex flex-row justify-around fixed top-0 z-10 w-full'>
       <h1 className='text-yellow-400 font-protest-riot  text-5xl mb-3'>
         Anis</h1>
         <IoMenu onClick={toggleMenu} className='text-3xl text-white mt-4 space-x-5'/>
