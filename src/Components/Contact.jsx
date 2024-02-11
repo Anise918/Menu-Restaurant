@@ -106,7 +106,7 @@ const Contact = () => {
   
   <div class='absolute top-0 left-0 w-full  '>
     <header style={{ backgroundColor: headerColor }}  className=' flex flex-row items-center
-      justify-around border border-black fixed z-10 top-0 w-full'>
+      justify-around border border-black fixed top-0 z-10 w-full'>
       <h1 className='text-yellow-400 font-protest-riot  text-5xl mb-3 mt-4'>
         Anis</h1>
         <IoMenu onClick={toggleMenu} className='text-3xl text-white mt-4 

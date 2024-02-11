@@ -53,7 +53,8 @@ const Welcome = () => {
   <img class='w-full' src='https://cdn.pixabay.com/photo/2023/10/25/22/14/food-8341388_640.jpg' alt='Food Image' />
 
   <div class='absolute top-0 left-0 w-full text-center'>
-    <header style={{ backgroundColor: headerColor }} className='border border-black flex justify-around fixed w-full'>
+    <header style={{ backgroundColor: headerColor }} className='border
+     border-black flex justify-around fixed top-0 z-10 w-full'>
       <h1 className='text-yellow-400 font-protest-riot  md:text-6xl lg:text-7xl  mb-3'>Anis</h1>
       <div>
         <ul className=' flex justify-center space-x-8 text-white mt-4 font-bold md:text-2xl 
