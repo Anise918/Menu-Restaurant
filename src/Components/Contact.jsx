@@ -24,8 +24,7 @@ const Contact = () => {
  
    useEffect(() => {
      const listenScrollEvent = () => {
-       console.log("Scrolling...");
-       console.log("Scroll position:", window.scrollY);
+       
        setHeaderColor(window.scrollY > 30 ? "black" : "transparent");
        
      };
@@ -106,10 +105,10 @@ const Contact = () => {
   
   <div class='absolute top-0 left-0 w-full  '>
     <header style={{ backgroundColor: headerColor }}  className=' flex flex-row items-center
-      justify-around border border-black fixed top-0 z-10 w-full'>
+      justify-around border border-black fixed top-0 z-10 w-full '>
       <h1 className='text-yellow-400 font-protest-riot  text-5xl mb-3 mt-4'>
         Anis</h1>
-        <IoMenu onClick={toggleMenu} className='text-3xl text-white mt-4 
+        <IoMenu onClick={toggleMenu} className='text-3xl text-white mt-4 fixed top-0 z-10 left-0
          '/>
     
       
@@ -129,7 +128,7 @@ const Contact = () => {
 <nav
         className={`${
           isMenuOpen ? 'block' : 'hidden'
-        } lg:hidden w-2/3  h-screen bg-lime-600 text-yellow-400 
+        } lg:hidden w-1/2  h-1/2 bg-lime-600 text-yellow-400 
         font-semibold flex justify-center text-lg uppercase cursor-pointer 
          rounded-lg fixed top-0 left-0 z-10 `}
       >

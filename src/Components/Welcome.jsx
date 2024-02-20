@@ -109,7 +109,8 @@ const Welcome = () => {
     flex flex-row justify-around fixed top-0 z-10 w-full'>
       <h1 className='text-yellow-400 font-protest-riot  text-5xl mb-3'>
         Anis</h1>
-        <IoMenu onClick={toggleMenu} className='text-3xl text-white mt-4 space-x-5'/>
+        <IoMenu onClick={toggleMenu} className='text-3xl text-white mt-4 space-x-5
+        fixed top-0 z-10 left-0'/>
       
     </header>
     <div className='absolute top-14 left-0 w-full text-center mt-10'>
@@ -128,7 +129,7 @@ const Welcome = () => {
 <nav
         className={`${
           isMenuOpen ? 'block' : 'hidden'
-        } lg:hidden w-2/3  h-screen bg-lime-600 text-yellow-400 
+        } lg:hidden w-1/2  h-1/2 bg-lime-600 text-yellow-400 
         font-semibold flex justify-center text-lg uppercase cursor-pointer 
          rounded-lg fixed top-0 left-0 z-10 `}
       >
